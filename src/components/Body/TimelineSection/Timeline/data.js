@@ -8,11 +8,11 @@ export const EXPERIENCE_DATA = [
     interval: '2019 Sep - 2022 Jul'
   },
   {
-    company: 'Cybercom Group',
+    company: 'Cybercom Group (Internship)',
     interval: '2019 Jan - 2019 May'
   },
   {
-    company: 'Skatteverket IT',
+    company: 'Skatteverket IT (Internship)',
     interval: '2018 Aug - 2018 Oct'
   }
 ]
