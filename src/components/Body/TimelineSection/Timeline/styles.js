@@ -78,7 +78,7 @@ export const ListItem = styled.li`
   position: relative;
 
   padding: 20px;
-  background: #101010;
+  background: #323232;
   color: #fff;
   border-radius: 10px;
 `;
